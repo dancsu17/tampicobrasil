@@ -1,0 +1,307 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tampico.com.br" resolutions="1x" timestamp="1558621534860">
+  <folder name="css">
+    <file name="site_global.css" crc="311557322"/>
+    <file name="master_a-master.css" crc="4000952096" ref="política-de-privacidade:termos-de-uso:index"/>
+    <file name="pol_tica-de-privacidade.css" crc="415955502" ref="política-de-privacidade"/>
+    <file name="termos-de-uso.css" crc="3982906789" ref="termos-de-uso"/>
+    <file name="index.css" crc="159768550" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3912209808" ref="phone>index"/>
+    <file name="checkeredbackgroundmobile.gif" crc="4073819904" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-look-slider-image.jpg" crc="3773670704" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade"/>
+    <file name="iced tea slider image.jpg" crc="4217496322" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20th-anniversary-slide.jpg" crc="4026076990" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="u7699-6.png" crc="106528337" ref="phone>index"/>
+    <file name="bpbrazilsliderfruit.png" crc="354655398" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="cpbrazilsliderfruit.png" crc="478399565" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="ppbrazilsliderfruit.png" crc="151143933" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="gpbrazilsliderfruit.png" crc="298475151" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="lemontea.png" crc="474353420" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peachtea.png" crc="3979019086" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8662-4.png" crc="293555205" ref="phone>index"/>
+    <file name="u8653-4.png" crc="410711586" ref="phone>index"/>
+    <file name="u8671-4.png" crc="3923235802" ref="phone>index"/>
+    <file name="u8680-4.png" crc="3799389474" ref="phone>index"/>
+    <file name="u12758-4.png" crc="3849747335" ref="phone>index"/>
+    <file name="u12778-4.png" crc="3793696758" ref="phone>index"/>
+    <file name="bluerays.gif" crc="3972772054" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brasilfamilyshot-u7637.png" crc="402536664" ref="phone>index"/>
+    <file name="splash369x122.png" crc="4100222117" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2lgrape.png" crc="3963260435" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="citrus1l.png" crc="4061850901" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peach450.png" crc="105842587" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="berry250.png" crc="3849529240" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="citrus200tetra.png" crc="3959466888" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lemontea1500.png" crc="4292275965" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peachtea300.png" crc="4032360769" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u13245-4.png" crc="10737806" ref="phone>index"/>
+    <file name="u13285-4.png" crc="350445328" ref="phone>index"/>
+    <file name="u13345-4.png" crc="3978811296" ref="phone>index"/>
+    <file name="u13265-4.png" crc="412726559" ref="phone>index"/>
+    <file name="u13305-4.png" crc="4256184372" ref="phone>index"/>
+    <file name="u13325-4.png" crc="58324803" ref="phone>index"/>
+    <file name="u13365-4.png" crc="3812564636" ref="phone>index"/>
+    <file name="brazilmap-u8281-fr.png" crc="3853952224" ref="phone>index"/>
+    <file name="tea launch2.jpg" crc="75366888" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tea launch1.jpg" crc="3774532122" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobilemenumore.gif" crc="4259144741" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobilemenuless.gif" crc="533080750" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="259218190" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="pasted-svg-25625x17.svg" crc="148292123" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="pasted svg 25625x17_poster_.png" crc="393236364" ref="phone>index"/>
+    <file name="instagram.png" crc="3848336331" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="pasted-svg-17586x9.svg" crc="4138347791" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="pasted svg 17586x9_poster_.png" crc="375626908" ref="phone>index"/>
+    <file name="twitter.png" crc="255529115" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="youtube.png" crc="23087992" seo="true" ref="phone>index:tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="checkeredbackground.gif" crc="4088929388" ref="tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="header_logo.png" crc="393374432" seo="true" ref="tablet>index:index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="new-look-slider-image732x341.jpg" crc="4045596265" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iced tea slider image732x342.jpg" crc="324291389" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6805-4.png" crc="3898073563" ref="tablet>index"/>
+    <file name="u12199-4.png" crc="456738299" ref="tablet>index"/>
+    <file name="u12203-4.png" crc="3994114597" ref="tablet>index"/>
+    <file name="u12207-4.png" crc="198355241" ref="tablet>index"/>
+    <file name="u12211-4.png" crc="4237861724" ref="tablet>index"/>
+    <file name="u12215-4.png" crc="274422937" ref="tablet>index"/>
+    <file name="u12219-4.png" crc="3985521322" ref="tablet>index"/>
+    <file name="brasilfamilyshot-u6692.png" crc="4236457775" ref="tablet>index"/>
+    <file name="u12293-4.png" crc="3870442210" ref="tablet>index"/>
+    <file name="u12297-4.png" crc="506414990" ref="tablet>index"/>
+    <file name="u12301-4.png" crc="3886854375" ref="tablet>index"/>
+    <file name="u12305-4.png" crc="85189915" ref="tablet>index"/>
+    <file name="u12309-4.png" crc="148653653" ref="tablet>index"/>
+    <file name="u12313-4.png" crc="500823312" ref="tablet>index"/>
+    <file name="u12317-4.png" crc="3904111161" ref="tablet>index"/>
+    <file name="splash727x239.png" crc="3844489219" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brazilmap-u7057-fr.png" crc="3762908821" ref="tablet>index"/>
+    <file name="tampicotealaunch706x372.jpg" crc="4262487510" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tampicotealaunch2706x372.jpg" crc="3871422895" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3912209808" ref="index"/>
+    <file name="u3805-4.png" crc="106254981" ref="index"/>
+    <file name="u3791-4.png" crc="41426914" ref="index"/>
+    <file name="u3783-4.png" crc="158516076" ref="index"/>
+    <file name="u3792-4.png" crc="523685947" ref="index"/>
+    <file name="u3793-4.png" crc="4130665987" ref="index"/>
+    <file name="u3806-4.png" crc="75583515" ref="index"/>
+    <file name="u3790-4.png" crc="81892185" ref="index"/>
+    <file name="splash.png" crc="480382480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3719-4.png" crc="10156488" ref="index"/>
+    <file name="u3714-4.png" crc="298532958" ref="index"/>
+    <file name="u3716-4.png" crc="263913470" ref="index"/>
+    <file name="u3718-4.png" crc="4104732747" ref="index"/>
+    <file name="u11638-4.png" crc="4103891664" ref="index"/>
+    <file name="u11651-4.png" crc="421543629" ref="index"/>
+    <file name="u3711-4.png" crc="3931672553" ref="index"/>
+    <file name="brasilfamilyshot-u3742.png" crc="190327905" ref="index"/>
+    <file name="brazilmap-u5082-fr.png" crc="3820644349" ref="index"/>
+    <file name="tampicotealaunch.jpg" crc="25914704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tampicotealaunch2.jpg" crc="3802876373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3858669008" ref="tablet>index"/>
+      <file name="index.css" crc="233915968" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3996349693" seo="true" mt="1558558136601" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="268311129" ref="phone>index"/>
+      <file name="index.css" crc="38507790" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="477819343" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="495867901" seo="true" mt="1558558159706" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4277927237" seo="true" mt="1558558120815" redirect="true"/>
+  <file name="termos-de-uso.html" crc="4249463966" seo="true" mt="1558547354079" redirect="true"/>
+  <file name="política-de-privacidade.html" crc="4198162230" seo="true" mt="1558547354079" redirect="true"/>
+</manifest>
